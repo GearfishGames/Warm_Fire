@@ -1,0 +1,1404 @@
+﻿Log file open, 04/18/18 18:49:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Warm_Fire
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1760433782) SRandInit(1760433782).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.286035
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.17.0
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.18-22.50.02:410][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.18-22.50.02:410][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.18-22.50.02:786][  0]LogInit: Computer: LAPTOP-S5PH84FF
+[2018.04.18-22.50.02:786][  0]LogInit: User: kozwi
+[2018.04.18-22.50.02:786][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.18-22.50.02:786][  0]LogInit: High frequency timer resolution =2.531249 MHz
+[2018.04.18-22.50.02:786][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.18-22.50.02:800][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.18-22.50.02:800][  0]LogMemory: Process Physical Memory: 277.82 MB used, 277.82 MB peak
+[2018.04.18-22.50.02:800][  0]LogMemory: Process Virtual Memory: 272.61 MB used, 272.61 MB peak
+[2018.04.18-22.50.02:800][  0]LogMemory: Physical Memory: 5811.36 MB used,  10445.60 MB free, 16256.96 MB total
+[2018.04.18-22.50.02:800][  0]LogMemory: Virtual Memory: 711.11 MB used,  10445.60 MB free, 134217728.00 MB total
+[2018.04.18-22.50.08:776][  0]LogInit: Using OS detected language (en-US).
+[2018.04.18-22.50.08:777][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.18-22.50.09:709][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.18-22.50.12:175][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.18-22.50.40:022][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.18-22.50.40:709][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.04.18-22.50.40:709][  0]LogD3D11RHI:       4065/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.18-22.50.40:752][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.04.18-22.50.40:752][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.18-22.50.40:756][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.18-22.50.40:756][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.18-22.50.40:756][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.18-22.50.40:915][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.18-22.50.40:916][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.04.18-22.50.40:916][  0]LogWindows: EnumDisplayDevices:
+[2018.04.18-22.50.40:917][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.04.18-22.50.40:933][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.04.18-22.50.40:934][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.04.18-22.50.40:934][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.18-22.50.40:934][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.04.18-22.50.40:934][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.18-22.50.40:934][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.18-22.50.40:934][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2018.04.18-22.50.41:300][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.18-22.50.42:341][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 3)
+[2018.04.18-22.50.43:306][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Intermediate/Shaders/WorkingDirectory/3688/).
+[2018.04.18-22.50.43:306][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kozwi/AppData/Local/Temp/UnrealShaderWorkingDir/774D968846C7D688B08A209618CCCCEB/'.
+[2018.04.18-22.50.43:321][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.18-22.52.00:754][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.18-22.52.01:610][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.18-22.52.02:195][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.18-22.52.02:629][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.18-22.52.03:343][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.18-22.52.04:234][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.18-22.52.04:689][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.18-22.52.05:057][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.18-22.52.05:729][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.18-22.52.06:387][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.18-22.52.06:785][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.18-22.52.07:172][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.18-22.52.07:767][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.18-22.52.08:658][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.18-22.52.09:343][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.18-22.52.09:343][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.18-22.52.10:480][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.18-22.52.11:342][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.18-22.52.14:216][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.18-22.52.14:499][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.18-22.52.14:794][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.18-22.52.15:472][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.18-22.52.15:834][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.18-22.52.16:982][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.18-22.52.17:181][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.18-22.52.38:796][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.18-22.52.46:809][  0]LogDerivedDataCache: Loaded boot cache 7.35s 78MB C:/Users/kozwi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.18-22.52.46:841][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kozwi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.18-22.52.46:841][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.18-22.52.46:841][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.18-22.52.46:841][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.18-22.52.46:841][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.18-22.52.47:082][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.18-22.52.47:454][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kozwi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.18-22.52.48:283][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.18-22.52.48:445][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.18-22.52.49:051][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.18-22.52.49:365][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.18-22.53.45:422][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.18-22.53.50:637][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.18-22.53.50:719][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.18-22.53.50:762][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.18-22.53.50:762][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.18-22.53.50:762][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.18-22.53.50:762][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.18-22.53.53:133][  0]LogNetVersion: Warm_Fire , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 914700639)
+[2018.04.18-22.54.00:685][  0]LogAssetRegistry: FAssetRegistry took 0.2266 seconds to start up
+[2018.04.18-22.54.34:845][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.849395 seconds
+[2018.04.18-22.54.35:142][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.04.18-22.54.35:142][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.04.18-22.54.35:142][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.18-22.54.35:288][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.18-22.56.11:574][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.18-22.56.11:786][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.18-22.56.16:101][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.18-22.56.18:669][  0]SourceControl: Source control is disabled
+[2018.04.18-22.56.18:672][  0]SourceControl: Source control is disabled
+[2018.04.18-22.56.18:911][  0]SourceControl: Source control is disabled
+[2018.04.18-22.56.19:226][  0]SourceControl: Source control is disabled
+[2018.04.18-22.56.23:219][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.18-22.56.23:913][  0]LogOcInput: OculusInput pre-init called
+[2018.04.18-22.56.25:435][  0]LogEngine: Initializing Engine...
+[2018.04.18-22.56.25:731][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.18-22.56.27:232][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.18-22.56.27:234][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.18-22.56.28:436][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.18-22.56.28:970][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-22.56.29:060][  0]LogInit: FAudioDevice initialized.
+[2018.04.18-22.56.30:628][  0]LogDerivedDataCache: Saved boot cache 1.51s 78MB C:/Users/kozwi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.18-22.56.30:663][  0]LogInit: Texture streaming: Enabled
+[2018.04.18-22.56.34:356][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.18-22.56.36:040][  0]LogInit: Transaction tracking system initialized
+[2018.04.18-22.56.38:129][  0]BlueprintLog: New page: Editor Load
+[2018.04.18-22.56.43:705][  0]LocalizationService: Localization service is disabled
+[2018.04.18-22.56.49:208][  0]LogConsoleResponse: Display: 
+[2018.04.18-22.56.58:925][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/' took 0.02s
+[2018.04.18-22.56.58:925][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.18-22.56.58:926][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.18-22.56.58:989][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.18-22.57.10:167][  0]SourceControl: Source control is disabled
+[2018.04.18-22.57.10:873][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.18-22.57.11:491][  0]LightingResults: New page: Lighting Build
+[2018.04.18-22.57.13:208][  0]MapCheck: New page: Map Check
+[2018.04.18-22.57.13:208][  0]LightingResults: New page: Lighting Build
+[2018.04.18-22.57.20:794][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.18-22.57.22:083][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.18-22.57.22:402][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.18-22.57.22:655][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 252.225ms to complete.
+[2018.04.18-22.57.22:656][  0]LogFileHelpers: Loading map 'Template_Default' took 12.303
+[2018.04.18-22.57.29:718][  0]LogCollectionManager: Loaded 0 collections in 0.002449 seconds
+[2018.04.18-22.57.30:295][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Collections/' took 0.01s
+[2018.04.18-22.57.30:295][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Developers/kozwi/Collections/' took 0.01s
+[2018.04.18-22.57.30:295][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Collections/' took 0.01s
+[2018.04.18-22.57.30:295][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.18-22.57.30:314][  0]LogContentBrowser: Native class hierarchy populated in 0.0155 seconds. Added 2363 classes and 519 folders.
+[2018.04.18-22.57.30:778][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.18-22.57.55:716][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.18-22.57.58:059][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.18-22.58.05:161][  0]LogSlate: Took 0.522447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.18-22.58.06:315][  0]LogSlate: Took 0.136534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.18-22.58.09:903][  0]LogSlate: Took 0.630740 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.18-22.58.24:669][  0]LogRenderer: Reallocating scene render targets to support 1088x632 Format 9 NumSamples 1 (Frame:1).
+[2018.04.18-22.58.31:772][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.18-22.58.31:772][  0]LogLoad: (Engine Initialization) Total time: 585.68 seconds
+[2018.04.18-22.58.31:772][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.18-22.58.31:820][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.18-22.58.35:965][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.04.18-22.58.44:149][  3]LogAssetRegistry: Asset discovery search completed in 283.4864 seconds
+[2018.04.18-22.58.44:442][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.18-22.58.44:498][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.096237 seconds (updated 0 objects)
+[2018.04.18-22.58.47:061][  3]LogSlate: Took 0.954177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.18-23.04.58:073][326]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.18-23.04.58:178][326]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.18/FeaturePacks/TP_TopDownBP.upack)
+[2018.04.18-23.04.58:402][326]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.04.18-23.04.58:425][326]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/TopDownOverview.uasset" to "../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/TopDownBP/TopDownOverview.uasset"
+[2018.04.18-23.04.58:455][326]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Blueprints/M_Cursor_Decal.uasset" to "../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/TopDownBP/Blueprints/M_Cursor_Decal.uasset"
+[2018.04.18-23.04.58:483][326]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" to "../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/TopDownBP/Blueprints/TopDownCharacter.uasset"
+[2018.04.18-23.04.58:535][326]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Blueprints/TopDownController.uasset" to "../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/TopDownBP/Blueprints/TopDownController.uasset"
+[2018.04.18-23.04.58:564][326]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Blueprints/TopDownGameMode.uasset" to "../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/TopDownBP/Blueprints/TopDownGameMode.uasset"
+[2018.04.18-23.04.58:570][326]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Character/TopDownIdleRun.uasset" to "../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/TopDownBP/Character/TopDownIdleRun.uasset"
+[2018.04.18-23.04.58:576][326]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Character/TopDownSkeletalMesh.uasset" to "../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/TopDownBP/Character/TopDownSkeletalMesh.uasset"
+[2018.04.18-23.04.58:687][326]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Maps/TopDownExampleMap.umap" to "../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/TopDownBP/Maps/TopDownExampleMap.umap"
+[2018.04.18-23.04.58:760][326]LogPackFactory: Copied "../../../Templates/TP_TopDownBP/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" to "../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset"
+[2018.04.18-23.04.58:975][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/TopDownOverview" FILE="../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/TopDownBP/TopDownOverview.uasset" SILENT=true
+[2018.04.18-23.04.59:164][326]LogSavePackage: Save=167.69ms
+[2018.04.18-23.04.59:164][326]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/TopDownOverview215C6446461F963CAB2D74B2EDCF6EC2.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/TopDownBP/TopDownOverview.uasset'
+[2018.04.18-23.04.59:206][326]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/TopDownBP/TopDownOverview.uasset
+[2018.04.18-23.13.56:604][736]LogMaterial: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2018.04.18-23.14.02:640][819]Cmd: DELETE
+[2018.04.18-23.14.02:655][819]Cmd: ACTOR DELETE
+[2018.04.18-23.14.02:999][819]LogEditorActor: Deleted Actor: TopDownCharacter_C
+[2018.04.18-23.14.03:128][819]LogEditorActor: Deleted 1 Actors (0.249 secs)
+[2018.04.18-23.14.04:539][903]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.14.04:651][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.14.04:733][903]PIE: New page: PIE session: Untitled_1 (Apr 18, 2018, 3:14:04 PM)
+[2018.04.18-23.14.04:733][903]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.04.18-23.14.04:762][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029262s)
+[2018.04.18-23.14.04:763][903]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.18-23.14.04:778][903]LogPlayLevel: PIE: World Init took: (0.016041s)
+[2018.04.18-23.14.04:778][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.045709s)
+[2018.04.18-23.14.04:831][903]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.14.04:850][903]LogInit: FAudioDevice initialized.
+[2018.04.18-23.14.04:975][903]LogLoad: Game class is 'GameModeBase'
+[2018.04.18-23.14.05:088][903]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.04.18-19.14.05
+[2018.04.18-23.14.05:272][903]LogWorld: Bringing up level for play took: 0.201049
+[2018.04.18-23.14.05:558][903]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0080 seconds. Added 11 classes and 0 folders.
+[2018.04.18-23.14.05:602][903]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.806
+[2018.04.18-23.14.14:173][384]Cmd: SELECT NONE
+[2018.04.18-23.14.29:487][286]LogSlate: Took 0.012698 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.18-23.14.52:578][824]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.04.18-23.14.53:969][824]LogMetaData: Removing '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' ref from Metadata '/Game/TopDownBP/Maps/TopDownExampleMap.PackageMetaData'
+[2018.04.18-23.14.53:969][824]LogMetaData: Removing '/Game/Maps/TopDownExampleMap.SKEL_TopDownExampleMap_C' ref from Metadata '/Game/TopDownBP/Maps/TopDownExampleMap.PackageMetaData'
+[2018.04.18-23.14.54:122][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TopDownExampleMap" FILE="../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.18-23.14.54:289][824]LogSavePackage: Save=148.98ms
+[2018.04.18-23.14.54:289][824]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/TopDownExampleMapCA7FF32B40DC377F57CEF3ACB68F55E4.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Maps/TopDownExampleMap.umap'
+[2018.04.18-23.14.54:295][824]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Maps/TopDownExampleMap.umap
+[2018.04.18-23.14.54:318][824]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.258
+[2018.04.18-23.14.54:321][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2018.04.18-23.14.54:462][824]LogSavePackage: Save=136.24ms
+[2018.04.18-23.14.54:462][824]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/TopDownExampleMap_BuiltDataC012C1C04B46A96272615E9058A64F25.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.04.18-23.14.54:468][824]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.04.18-23.15.20:680][ 56]LogEditorViewport: Clicking on Component (LMB): CameraComponent (VR_Camera)
+[2018.04.18-23.15.25:925][567]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.04.18-23.15.26:949][664]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2018.04.18-23.15.29:396][868]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2018.04.18-23.15.29:472][872]LogEditorViewport: Clicking on Component (LMB): CameraComponent (VR_Camera)
+[2018.04.18-23.15.30:552][973]LogEditorViewport: Clicking on Component (LMB): CameraComponent (VR_Camera)
+[2018.04.18-23.15.30:618][977]LogEditorViewport: Clicking on Actor (double click): TopDownCharacter_C (TopDownCharacter)
+[2018.04.18-23.15.31:350][ 34]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2018.04.18-23.15.31:426][ 38]LogEditorViewport: Clicking on Component (LMB): CameraComponent (VR_Camera)
+[2018.04.18-23.15.31:848][ 72]LogEditorViewport: Clicking on Component (LMB): CameraComponent (VR_Camera)
+[2018.04.18-23.15.31:923][ 77]LogEditorViewport: Clicking on Actor (double click): TopDownCharacter_C (TopDownCharacter)
+[2018.04.18-23.15.32:684][137]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2018.04.18-23.15.32:785][143]LogEditorViewport: Clicking on Component (LMB): CameraComponent (VR_Camera)
+[2018.04.18-23.15.37:851][615]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.15.37:868][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.15.37:868][615]PIE: New page: PIE session: Untitled_1 (Apr 18, 2018, 3:15:37 PM)
+[2018.04.18-23.15.37:868][615]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.04.18-23.15.37:877][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009097s)
+[2018.04.18-23.15.37:880][615]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.18-23.15.37:880][615]LogPlayLevel: PIE: World Init took: (0.002634s)
+[2018.04.18-23.15.37:881][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.012342s)
+[2018.04.18-23.15.37:894][615]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.15.37:914][615]LogInit: FAudioDevice initialized.
+[2018.04.18-23.15.37:969][615]LogLoad: Game class is 'GameModeBase'
+[2018.04.18-23.15.37:973][615]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.04.18-19.15.37
+[2018.04.18-23.15.37:973][615]LogWorld: Bringing up level for play took: 0.001951
+[2018.04.18-23.15.37:975][615]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.822
+[2018.04.18-23.24.49:215][ 87]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.04.18-23.24.56:554][511]LogEditorActor: Deleted Actor: PlayerStart
+[2018.04.18-23.24.56:565][511]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.04.18-23.24.58:127][605]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.24.58:144][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.24.58:145][605]PIE: New page: PIE session: Untitled_1 (Apr 18, 2018, 3:24:58 PM)
+[2018.04.18-23.24.58:145][605]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.04.18-23.24.58:152][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007324s)
+[2018.04.18-23.24.58:153][605]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.18-23.24.58:154][605]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2018.04.18-23.24.58:154][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.008990s)
+[2018.04.18-23.24.58:167][605]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.24.58:188][605]LogInit: FAudioDevice initialized.
+[2018.04.18-23.24.58:232][605]LogLoad: Game class is 'GameModeBase'
+[2018.04.18-23.24.58:235][605]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.04.18-19.24.58
+[2018.04.18-23.24.58:236][605]LogWorld: Bringing up level for play took: 0.002419
+[2018.04.18-23.24.58:237][605]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.548
+[2018.04.18-23.25.13:593][328]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.18-23.25.13:763][329]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.WarmFire
+[2018.04.18-23.25.13:763][329]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.04.18-23.25.13:763][329]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.04.18-23.25.13:763][329]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.04.18-23.25.13:763][329]LogTemp: BranchPath = LAPTOP-S5PH84FF/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = LAPTOP-S5PH84FF/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.04.18-23.25.14:266][350]LogTemp:   Looking for a certificate that matches the application identifier 'MT83L82446.com.gearfish.MagicPortalAR'
+[2018.04.18-23.25.14:267][350]LogTemp:   .. Provision entry SN '179F17319199002B' matched 0 installed certificate(s)
+[2018.04.18-23.25.14:267][350]LogTemp:   .. Provision entry SN '6D9FA307B78C8F0E' matched 0 installed certificate(s)
+[2018.04.18-23.25.14:267][350]LogTemp:   .. Failed to find a valid certificate that was in date
+[2018.04.18-23.25.14:267][350]LogTemp: PROVISION-File:MagicPortalAR.mobileprovision,Name:MagicPortalAR,Validity:NO_CERT,StartDate:8/30/2017 2:10:25 AM,EndDate:8/30/2018 2:10:25 AM,Type:DEVELOPMENT
+[2018.04.18-23.25.14:267][350]LogTemp: MATCHED-Provision:,File:,Cert:
+[2018.04.18-23.25.22:123][655]Cmd: MAP LOAD FILE="../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.18-23.25.22:128][655]LightingResults: New page: Lighting Build
+[2018.04.18-23.25.22:138][655]LoadErrors: New page: Loading map: TopDownExampleMap.umap
+[2018.04.18-23.25.22:139][655]MapCheck: New page: Map Check
+[2018.04.18-23.25.22:139][655]LightingResults: New page: Lighting Build
+[2018.04.18-23.25.22:161][655]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.18-23.25.22:339][655]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.18-23.25.25:221][655]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,881.682ms to complete.
+[2018.04.18-23.25.25:242][655]LogSlate: Took 0.017909 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.18-23.25.25:249][655]LogFileHelpers: Loading map 'TopDownExampleMap' took 3.171
+[2018.04.18-23.25.28:889][866]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.25.28:930][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.18-23.25.28:930][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.25.28:930][866]PIE: New page: PIE session: TopDownExampleMap (Apr 18, 2018, 3:25:28 PM)
+[2018.04.18-23.25.28:931][866]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TopDownExampleMap
+[2018.04.18-23.25.28:990][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059196s)
+[2018.04.18-23.25.28:991][866]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.04.18-23.25.28:991][866]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2018.04.18-23.25.28:991][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.060641s)
+[2018.04.18-23.25.29:003][866]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.25.29:019][866]LogInit: FAudioDevice initialized.
+[2018.04.18-23.25.29:051][866]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.04.18-23.25.29:055][866]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.04.18-19.25.29
+[2018.04.18-23.25.29:078][866]LogWorld: Bringing up level for play took: 0.025152
+[2018.04.18-23.25.29:151][866]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TopDownExampleMap 0.366
+[2018.04.18-23.25.29:151][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.18-23.25.52:989][279]LogSlate: Took 0.022844 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.18-23.25.54:399][316]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.04.18-23.25.55:743][316]LogSlate: Took 0.021549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.18-23.26.08:689][ 11]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.18-23.26.08:723][ 11]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.18-23.26.57:278][405]LightingResults: New page: Lighting Build
+[2018.04.18-23.26.57:280][405]MapCheck: New page: Map Check
+[2018.04.18-23.26.57:280][405]LightingResults: New page: Lighting Build
+[2018.04.18-23.26.57:354][405]LogAIModule: Creating AISystem for world Untitled
+[2018.04.18-23.26.57:365][405]LoadErrors: New page: New Map
+[2018.04.18-23.26.57:535][405]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.04.18-23.27.23:411][887]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.27.23:458][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled:PersistentLevel.Untitled'
+[2018.04.18-23.27.23:458][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.27.23:458][887]PIE: New page: PIE session: Untitled_2 (Apr 18, 2018, 3:27:23 PM)
+[2018.04.18-23.27.23:458][887]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2018.04.18-23.27.23:459][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000821s)
+[2018.04.18-23.27.23:460][887]LogAIModule: Creating AISystem for world Untitled
+[2018.04.18-23.27.23:460][887]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2018.04.18-23.27.23:460][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled to /Temp/UEDPIE_0_Untitled_2.Untitled (0.001742s)
+[2018.04.18-23.27.23:482][887]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.27.23:500][887]LogInit: FAudioDevice initialized.
+[2018.04.18-23.27.23:538][887]LogLoad: Game class is 'GameModeBase'
+[2018.04.18-23.27.23:539][887]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled up for play (max tick rate 60) at 2018.04.18-19.27.23
+[2018.04.18-23.27.23:540][887]LogWorld: Bringing up level for play took: 0.000399
+[2018.04.18-23.27.23:541][887]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 0.756
+[2018.04.18-23.27.23:541][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled:PersistentLevel.Untitled'
+[2018.04.18-23.27.25:194][986]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled:PersistentLevel.Untitled'
+[2018.04.18-23.27.25:236][986]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled:PersistentLevel.Untitled'
+[2018.04.18-23.27.40:774][669]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.04.18-23.27.40:859][669]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.27.43:041][782]LogSavePackage: Save=54.65ms
+[2018.04.18-23.27.43:043][782]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Warm_Fire_Level176A272E646B1647995332390FB68468D.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Levels/Warm_Fire_Level1.umap'
+[2018.04.18-23.27.43:050][782]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Levels/Warm_Fire_Level1.umap
+[2018.04.18-23.27.43:056][782]LogFileHelpers: Saving map 'Warm_Fire_Level1' took 0.214
+[2018.04.18-23.27.46:287][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Warm_Fire_Level1_BuiltData" FILE="../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Levels/Warm_Fire_Level1_BuiltData.uasset" SILENT=true
+[2018.04.18-23.27.46:306][958]LogSavePackage: Save=16.07ms
+[2018.04.18-23.27.46:306][958]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Warm_Fire_Level1_BuiltData7DF99B2F45C38447C6D7D883708AE079.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Levels/Warm_Fire_Level1_BuiltData.uasset'
+[2018.04.18-23.27.46:310][958]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Levels/Warm_Fire_Level1_BuiltData.uasset
+[2018.04.18-23.27.50:630][ 95]Cmd: MAP LOAD FILE="../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Levels/Warm_Fire_Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.18-23.27.50:632][ 95]LightingResults: New page: Lighting Build
+[2018.04.18-23.27.50:633][ 95]LoadErrors: New page: Loading map: Warm_Fire_Level1.umap
+[2018.04.18-23.27.50:634][ 95]MapCheck: New page: Map Check
+[2018.04.18-23.27.50:634][ 95]LightingResults: New page: Lighting Build
+[2018.04.18-23.27.50:656][ 95]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.18-23.27.50:696][ 95]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.18-23.27.54:471][ 95]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,774.606ms to complete.
+[2018.04.18-23.27.54:475][ 95]LogFileHelpers: Loading map 'Warm_Fire_Level1' took 3.846
+[2018.04.18-23.27.58:311][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.18-23.27.59:673][390]Cmd: DELETE
+[2018.04.18-23.27.59:673][390]Cmd: ACTOR DELETE
+[2018.04.18-23.27.59:674][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.18-23.27.59:694][390]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.04.18-23.28.33:434][844]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.04.18-23.29.27:062][304]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.29.27:079][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.29.27:079][304]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:29:27 PM)
+[2018.04.18-23.29.27:079][304]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.29.27:087][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008115s)
+[2018.04.18-23.29.27:089][304]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.29.27:089][304]LogPlayLevel: PIE: World Init took: (0.001963s)
+[2018.04.18-23.29.27:090][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.011043s)
+[2018.04.18-23.29.27:116][304]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.29.27:134][304]LogInit: FAudioDevice initialized.
+[2018.04.18-23.29.27:170][304]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.04.18-23.29.27:173][304]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.29.27
+[2018.04.18-23.29.27:173][304]LogWorld: Bringing up level for play took: 0.001684
+[2018.04.18-23.29.27:175][304]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 0.39
+[2018.04.18-23.29.34:260][ 74]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2018.04.18-23.29.34:684][103]Cmd: DELETE
+[2018.04.18-23.29.34:684][103]Cmd: ACTOR DELETE
+[2018.04.18-23.29.34:687][103]LogEditorActor: Deleted Actor: TopDownCharacter_C
+[2018.04.18-23.29.34:707][103]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.04.18-23.29.36:507][303]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.29.36:526][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.29.36:527][303]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:29:36 PM)
+[2018.04.18-23.29.36:527][303]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.29.36:533][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005893s)
+[2018.04.18-23.29.36:534][303]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.29.36:534][303]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2018.04.18-23.29.36:534][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.007524s)
+[2018.04.18-23.29.36:551][303]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.29.36:567][303]LogInit: FAudioDevice initialized.
+[2018.04.18-23.29.36:603][303]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.04.18-23.29.36:605][303]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.29.36
+[2018.04.18-23.29.36:605][303]LogWorld: Bringing up level for play took: 0.000652
+[2018.04.18-23.29.36:607][303]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 -0.178
+[2018.04.18-23.29.59:139][458]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.29.59:156][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.29.59:156][458]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:29:59 PM)
+[2018.04.18-23.29.59:156][458]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.29.59:161][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005146s)
+[2018.04.18-23.29.59:162][458]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.29.59:163][458]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2018.04.18-23.29.59:163][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.006702s)
+[2018.04.18-23.29.59:180][458]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.29.59:197][458]LogInit: FAudioDevice initialized.
+[2018.04.18-23.29.59:232][458]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.04.18-23.29.59:234][458]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.29.59
+[2018.04.18-23.29.59:234][458]LogWorld: Bringing up level for play took: 0.001100
+[2018.04.18-23.29.59:236][458]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 0.451
+[2018.04.18-23.30.49:768][495]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.30.49:783][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.30.49:783][495]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:30:49 PM)
+[2018.04.18-23.30.49:783][495]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.30.49:791][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007780s)
+[2018.04.18-23.30.49:792][495]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.30.49:793][495]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2018.04.18-23.30.49:793][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.009619s)
+[2018.04.18-23.30.49:811][495]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.30.49:828][495]LogInit: FAudioDevice initialized.
+[2018.04.18-23.30.49:865][495]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.04.18-23.30.49:868][495]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.30.49
+[2018.04.18-23.30.49:868][495]LogWorld: Bringing up level for play took: 0.001146
+[2018.04.18-23.30.49:870][495]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 1.085
+[2018.04.18-23.30.55:360][ 95]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.04.18-23.31.02:153][762]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.31.02:171][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.31.02:172][762]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:31:02 PM)
+[2018.04.18-23.31.02:172][762]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.31.02:178][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005546s)
+[2018.04.18-23.31.02:178][762]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.31.02:179][762]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2018.04.18-23.31.02:179][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.007012s)
+[2018.04.18-23.31.02:196][762]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.31.02:215][762]LogInit: FAudioDevice initialized.
+[2018.04.18-23.31.02:252][762]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.04.18-23.31.02:253][762]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.31.02
+[2018.04.18-23.31.02:254][762]LogWorld: Bringing up level for play took: 0.000629
+[2018.04.18-23.31.02:256][762]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 -0.529
+[2018.04.18-23.31.27:689][311]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.18-23.31.27:842][317]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.WarmFire
+[2018.04.18-23.31.27:842][317]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.04.18-23.31.27:842][317]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.04.18-23.31.27:842][317]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.04.18-23.31.27:842][317]LogTemp: BranchPath = LAPTOP-S5PH84FF/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = LAPTOP-S5PH84FF/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.04.18-23.31.27:882][320]LogTemp:   Looking for a certificate that matches the application identifier 'MT83L82446.com.gearfish.MagicPortalAR'
+[2018.04.18-23.31.27:900][321]LogTemp:   .. Provision entry SN '179F17319199002B' matched 0 installed certificate(s)
+[2018.04.18-23.31.27:900][321]LogTemp:   .. Provision entry SN '6D9FA307B78C8F0E' matched 0 installed certificate(s)
+[2018.04.18-23.31.27:900][321]LogTemp:   .. Failed to find a valid certificate that was in date
+[2018.04.18-23.31.27:900][321]LogTemp: PROVISION-File:MagicPortalAR.mobileprovision,Name:MagicPortalAR,Validity:NO_CERT,StartDate:8/30/2017 2:10:25 AM,EndDate:8/30/2018 2:10:25 AM,Type:DEVELOPMENT
+[2018.04.18-23.31.27:900][321]LogTemp: MATCHED-Provision:,File:,Cert:
+[2018.04.18-23.32.26:306][910]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.04.18-23.34.09:384][490]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.18/FeaturePacks/TP_ThirdPersonBP.upack)
+[2018.04.18-23.34.09:434][490]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.04.18-23.34.09:481][490]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/ThirdPersonOverview.uasset" to "../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/ThirdPersonOverview.uasset"
+[2018.04.18-23.34.09:511][490]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" to "../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset"
+[2018.04.18-23.34.09:541][490]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" to "../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset"
+[2018.04.18-23.34.09:648][490]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" to "../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap"
+[2018.04.18-23.34.09:698][490]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" to "../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset"
+[2018.04.18-23.34.09:760][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ThirdPersonOverview" FILE="../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/ThirdPersonOverview.uasset" SILENT=true
+[2018.04.18-23.34.09:782][490]LogSavePackage: Save=12.19ms
+[2018.04.18-23.34.09:782][490]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/ThirdPersonOverview366719094C97F586F29BD2900CA9BDFA.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/ThirdPersonOverview.uasset'
+[2018.04.18-23.34.09:788][490]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/ThirdPersonOverview.uasset
+[2018.04.18-23.35.04:094][525]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.35.04:110][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.35.04:111][525]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:35:04 PM)
+[2018.04.18-23.35.04:111][525]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.35.04:117][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006253s)
+[2018.04.18-23.35.04:119][525]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.35.04:120][525]LogPlayLevel: PIE: World Init took: (0.002549s)
+[2018.04.18-23.35.04:120][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.009660s)
+[2018.04.18-23.35.04:204][525]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.35.04:221][525]LogInit: FAudioDevice initialized.
+[2018.04.18-23.35.04:254][525]LogLoad: Game class is 'GameModeBase'
+[2018.04.18-23.35.04:257][525]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.35.04
+[2018.04.18-23.35.04:257][525]LogWorld: Bringing up level for play took: 0.001761
+[2018.04.18-23.35.04:259][525]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 -0.527
+[2018.04.18-23.35.09:362][ 75]Cmd: SELECT NONE
+[2018.04.18-23.35.25:562][778]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.18-23.35.29:668][121]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.18-23.35.41:980][323]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.35.41:997][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.35.41:997][323]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:35:41 PM)
+[2018.04.18-23.35.41:997][323]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.35.42:004][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007092s)
+[2018.04.18-23.35.42:006][323]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.35.42:007][323]LogPlayLevel: PIE: World Init took: (0.002065s)
+[2018.04.18-23.35.42:007][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.009843s)
+[2018.04.18-23.35.42:026][323]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.35.42:045][323]LogInit: FAudioDevice initialized.
+[2018.04.18-23.35.42:081][323]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.18-23.35.42:083][323]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.35.42
+[2018.04.18-23.35.42:084][323]LogWorld: Bringing up level for play took: 0.002455
+[2018.04.18-23.35.42:087][323]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 -0.698
+[2018.04.18-23.35.51:095][281]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.04.18-23.35.52:016][349]Cmd: DELETE
+[2018.04.18-23.35.52:017][349]Cmd: ACTOR DELETE
+[2018.04.18-23.35.52:019][349]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2018.04.18-23.35.52:067][349]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2018.04.18-23.36.25:783][669]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.36.25:809][669]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.18-23.36.25:819][669]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.04.18-23.36.26:181][669]LogPlayLevel: PlayLevel: Blueprint regeneration took 371 ms (1 blueprints)
+[2018.04.18-23.36.26:181][669]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:36:26 PM)
+[2018.04.18-23.36.26:181][669]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.36.26:188][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007168s)
+[2018.04.18-23.36.26:189][669]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.36.26:190][669]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2018.04.18-23.36.26:190][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.008955s)
+[2018.04.18-23.36.26:208][669]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.36.26:225][669]LogInit: FAudioDevice initialized.
+[2018.04.18-23.36.26:265][669]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.18-23.36.26:266][669]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.36.26
+[2018.04.18-23.36.26:267][669]LogWorld: Bringing up level for play took: 0.000896
+[2018.04.18-23.36.26:269][669]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 -0.516
+[2018.04.18-23.36.30:827][ 18]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.36.30:846][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.36.30:847][ 18]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:36:30 PM)
+[2018.04.18-23.36.30:847][ 18]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.36.30:854][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006647s)
+[2018.04.18-23.36.30:856][ 18]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.36.30:856][ 18]LogPlayLevel: PIE: World Init took: (0.002099s)
+[2018.04.18-23.36.30:857][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.009437s)
+[2018.04.18-23.36.30:876][ 18]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.36.30:894][ 18]LogInit: FAudioDevice initialized.
+[2018.04.18-23.36.30:931][ 18]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.18-23.36.30:932][ 18]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.36.30
+[2018.04.18-23.36.30:932][ 18]LogWorld: Bringing up level for play took: 0.000601
+[2018.04.18-23.36.30:935][ 18]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 0.15
+[2018.04.18-23.37.27:913][364]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.18-23.38.06:073][552]LogSavePackage: Save=108.05ms
+[2018.04.18-23.38.06:073][552]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/ThirdPersonCharacter430E620B4D8E6E59C56194B2C19A94D4.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.18-23.38.06:079][552]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.18-23.38.08:436][725]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.38.08:461][725]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.18-23.38.08:470][725]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.04.18-23.38.08:919][725]LogPlayLevel: PlayLevel: Blueprint regeneration took 458 ms (1 blueprints)
+[2018.04.18-23.38.08:920][725]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:38:08 PM)
+[2018.04.18-23.38.08:920][725]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.38.08:926][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005838s)
+[2018.04.18-23.38.08:927][725]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.38.08:927][725]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2018.04.18-23.38.08:927][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.007534s)
+[2018.04.18-23.38.08:946][725]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.38.08:964][725]LogInit: FAudioDevice initialized.
+[2018.04.18-23.38.08:998][725]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.18-23.38.09:000][725]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.38.08
+[2018.04.18-23.38.09:000][725]LogWorld: Bringing up level for play took: 0.000833
+[2018.04.18-23.38.09:003][725]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 0.218
+[2018.04.18-23.38.22:146][166]Cmd: SELECT NONE
+[2018.04.18-23.38.33:556][952]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.38.33:580][952]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.18-23.38.33:589][952]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.04.18-23.38.34:108][952]LogPlayLevel: PlayLevel: Blueprint regeneration took 527 ms (1 blueprints)
+[2018.04.18-23.38.34:108][952]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:38:34 PM)
+[2018.04.18-23.38.34:108][952]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.38.34:114][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005200s)
+[2018.04.18-23.38.34:115][952]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.38.34:115][952]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2018.04.18-23.38.34:115][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.006816s)
+[2018.04.18-23.38.34:138][952]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.38.34:156][952]LogInit: FAudioDevice initialized.
+[2018.04.18-23.38.34:200][952]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.18-23.38.34:202][952]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.38.34
+[2018.04.18-23.38.34:202][952]LogWorld: Bringing up level for play took: 0.000857
+[2018.04.18-23.38.34:204][952]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 1.419
+[2018.04.18-23.38.38:515][232]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.38.38:536][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.38.38:536][232]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:38:38 PM)
+[2018.04.18-23.38.38:536][232]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.38.38:543][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006653s)
+[2018.04.18-23.38.38:544][232]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.38.38:544][232]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2018.04.18-23.38.38:545][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.008193s)
+[2018.04.18-23.38.38:564][232]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.38.38:582][232]LogInit: FAudioDevice initialized.
+[2018.04.18-23.38.38:619][232]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.18-23.38.38:621][232]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.38.38
+[2018.04.18-23.38.38:621][232]LogWorld: Bringing up level for play took: 0.000701
+[2018.04.18-23.38.38:623][232]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 -0.162
+[2018.04.18-23.39.05:779][201]Cmd: SELECT NONE
+[2018.04.18-23.39.07:201][351]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.39.07:221][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.39.07:221][351]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:39:07 PM)
+[2018.04.18-23.39.07:222][351]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.39.07:227][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005496s)
+[2018.04.18-23.39.07:228][351]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.39.07:229][351]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2018.04.18-23.39.07:229][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.007438s)
+[2018.04.18-23.39.07:250][351]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.39.07:268][351]LogInit: FAudioDevice initialized.
+[2018.04.18-23.39.07:304][351]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.18-23.39.07:306][351]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.39.07
+[2018.04.18-23.39.07:306][351]LogWorld: Bringing up level for play took: 0.000648
+[2018.04.18-23.39.07:309][351]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 0.524
+[2018.04.18-23.39.43:913][736]LogSavePackage: Save=41.45ms
+[2018.04.18-23.39.43:914][736]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Warm_Fire_Level1_Auto15F4718AD4335A1E2E99F88866D56A1F8.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1_Auto1.umap'
+[2018.04.18-23.39.43:917][736]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1_Auto1.umap
+[2018.04.18-23.39.43:923][736]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Warm_Fire_Level1' took 0.131
+[2018.04.18-23.39.43:924][736]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.131
+[2018.04.18-23.39.43:947][736]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.04.18-23.39.43:985][736]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.04.18-23.39.43:985][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.04.18-23.39.44:066][736]LogSavePackage: Save=76.96ms
+[2018.04.18-23.39.44:066][736]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/ThirdPersonCharacter_Auto11CD5E03A493C19ABA919049A1C1B18D5.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.04.18-23.39.44:068][736]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.04.18-23.39.44:085][736]LogSavePackage: Save=5.66ms
+[2018.04.18-23.39.44:085][736]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/TopDownExampleMap_Auto1F0234F29408BC900582305B9153422C8.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Maps/TopDownExampleMap_Auto1.uasset'
+[2018.04.18-23.39.44:087][736]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Maps/TopDownExampleMap_Auto1.uasset
+[2018.04.18-23.39.44:089][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Warm_Fire_Level1_BuiltData] ([1] browsable assets)...
+[2018.04.18-23.39.44:089][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Warm_Fire_Level1_BuiltData]
+[2018.04.18-23.39.44:116][736]Error: Cannot save asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2018.04.18-23.39.44:117][736]Warning: Asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2018.04.18-23.41.47:874][436]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.41.47:898][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.41.47:898][436]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:41:47 PM)
+[2018.04.18-23.41.47:898][436]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.41.47:905][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006995s)
+[2018.04.18-23.41.47:907][436]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.41.47:907][436]LogPlayLevel: PIE: World Init took: (0.001769s)
+[2018.04.18-23.41.47:908][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.009304s)
+[2018.04.18-23.41.47:932][436]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.41.47:952][436]LogInit: FAudioDevice initialized.
+[2018.04.18-23.41.47:987][436]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.18-23.41.47:989][436]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.41.47
+[2018.04.18-23.41.47:990][436]LogWorld: Bringing up level for play took: 0.001112
+[2018.04.18-23.41.47:993][436]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 -0.792
+[2018.04.18-23.41.55:243][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.18-23.42.21:125][346]LogSavePackage: Save=80.91ms
+[2018.04.18-23.42.21:125][346]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/ThirdPersonCharacter04B87A2A42851853F53B608372C7186A.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.18-23.42.21:133][346]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.18-23.42.24:589][648]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.42.24:615][648]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.18-23.42.24:624][648]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.04.18-23.42.25:261][648]LogPlayLevel: PlayLevel: Blueprint regeneration took 646 ms (1 blueprints)
+[2018.04.18-23.42.25:261][648]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:42:25 PM)
+[2018.04.18-23.42.25:261][648]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.42.25:266][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004452s)
+[2018.04.18-23.42.25:267][648]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.42.25:267][648]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2018.04.18-23.42.25:267][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.006123s)
+[2018.04.18-23.42.25:286][648]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.42.25:304][648]LogInit: FAudioDevice initialized.
+[2018.04.18-23.42.25:335][648]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.18-23.42.25:337][648]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.42.25
+[2018.04.18-23.42.25:337][648]LogWorld: Bringing up level for play took: 0.000799
+[2018.04.18-23.42.25:340][648]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 0.554
+[2018.04.18-23.43.18:116][467]LogRenderer: Reallocating scene render targets to support 1288x712 Format 9 NumSamples 1 (Frame:1).
+[2018.04.18-23.44.11:644][478]LogSavePackage: Save=84.32ms
+[2018.04.18-23.44.11:645][478]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/ThirdPersonCharacter8A775B3B48ADDC7FFA5456952FB8F7C1.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.18-23.44.11:651][478]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.18-23.44.15:396][772]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.44.15:420][772]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.18-23.44.15:430][772]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.04.18-23.44.16:187][772]LogPlayLevel: PlayLevel: Blueprint regeneration took 767 ms (1 blueprints)
+[2018.04.18-23.44.16:188][772]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:44:16 PM)
+[2018.04.18-23.44.16:188][772]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.44.16:193][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005379s)
+[2018.04.18-23.44.16:194][772]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.44.16:195][772]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2018.04.18-23.44.16:195][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.007262s)
+[2018.04.18-23.44.16:215][772]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.44.16:233][772]LogInit: FAudioDevice initialized.
+[2018.04.18-23.44.16:267][772]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.18-23.44.16:269][772]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.44.16
+[2018.04.18-23.44.16:269][772]LogWorld: Bringing up level for play took: 0.001158
+[2018.04.18-23.44.16:271][772]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 1.486
+[2018.04.18-23.44.47:741][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.18-23.45.00:035][418]LogStaticMesh: Building static mesh RightArm_StaticMesh...
+[2018.04.18-23.45.00:093][418]LogStaticMesh: Built static mesh [0.10s] /Game/ThirdPerson/Meshes/RightArm_StaticMesh.RightArm_StaticMesh
+[2018.04.18-23.45.00:177][418]LogStaticMesh: Building static mesh Ramp_StaticMesh...
+[2018.04.18-23.45.00:180][418]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPerson/Meshes/Ramp_StaticMesh.Ramp_StaticMesh
+[2018.04.18-23.45.00:196][418]LogStaticMesh: Building static mesh Linear_Stair_StaticMesh...
+[2018.04.18-23.45.00:200][418]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh.Linear_Stair_StaticMesh
+[2018.04.18-23.45.00:204][418]LogStaticMesh: Building static mesh LeftArm_StaticMesh...
+[2018.04.18-23.45.00:207][418]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Meshes/LeftArm_StaticMesh.LeftArm_StaticMesh
+[2018.04.18-23.45.00:220][418]LogStaticMesh: Building static mesh Bump_StaticMesh...
+[2018.04.18-23.45.00:223][418]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Meshes/Bump_StaticMesh.Bump_StaticMesh
+[2018.04.18-23.45.08:314][ 63]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.18-23.45.08:531][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/Bump_StaticMesh'
+[2018.04.18-23.45.08:532][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/Bump_StaticMesh' while loading ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.04.18-23.45.08:532][ 63]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPerson/Meshes/Bump_StaticMesh
+[2018.04.18-23.45.08:532][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh'
+[2018.04.18-23.45.08:532][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh' while loading ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.04.18-23.45.08:532][ 63]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPerson/Meshes/LeftArm_StaticMesh
+[2018.04.18-23.45.08:532][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh'
+[2018.04.18-23.45.08:532][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh' while loading ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.04.18-23.45.08:532][ 63]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh
+[2018.04.18-23.45.08:532][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/Ramp_StaticMesh'
+[2018.04.18-23.45.08:533][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/Ramp_StaticMesh' while loading ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.04.18-23.45.08:533][ 63]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPerson/Meshes/Ramp_StaticMesh
+[2018.04.18-23.45.08:533][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/RightArm_StaticMesh'
+[2018.04.18-23.45.08:533][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/RightArm_StaticMesh' while loading ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.04.18-23.45.08:533][ 63]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPerson/Meshes/RightArm_StaticMesh
+[2018.04.18-23.45.08:535][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/Bump_StaticMesh'
+[2018.04.18-23.45.08:535][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/Bump_StaticMesh' while loading ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.04.18-23.45.08:535][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh'
+[2018.04.18-23.45.08:535][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh' while loading ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.04.18-23.45.08:535][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh'
+[2018.04.18-23.45.08:535][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh' while loading ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.04.18-23.45.08:535][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/Ramp_StaticMesh'
+[2018.04.18-23.45.08:535][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/Ramp_StaticMesh' while loading ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.04.18-23.45.08:536][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/RightArm_StaticMesh'
+[2018.04.18-23.45.08:536][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/RightArm_StaticMesh' while loading ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.04.18-23.45.08:537][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/Bump_StaticMesh'
+[2018.04.18-23.45.08:537][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/Bump_StaticMesh' while loading NULL.
+[2018.04.18-23.45.08:537][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh'
+[2018.04.18-23.45.08:537][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh' while loading NULL.
+[2018.04.18-23.45.08:537][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh'
+[2018.04.18-23.45.08:537][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh' while loading NULL.
+[2018.04.18-23.45.08:537][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/Ramp_StaticMesh'
+[2018.04.18-23.45.08:537][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/Ramp_StaticMesh' while loading NULL.
+[2018.04.18-23.45.08:538][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/RightArm_StaticMesh'
+[2018.04.18-23.45.08:538][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/RightArm_StaticMesh' while loading NULL.
+[2018.04.18-23.45.08:538][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/Bump_StaticMesh'
+[2018.04.18-23.45.08:538][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/Bump_StaticMesh' while loading NULL.
+[2018.04.18-23.45.08:538][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh'
+[2018.04.18-23.45.08:538][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh' while loading NULL.
+[2018.04.18-23.45.08:538][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh'
+[2018.04.18-23.45.08:538][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh' while loading NULL.
+[2018.04.18-23.45.08:538][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/Ramp_StaticMesh'
+[2018.04.18-23.45.08:539][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/Ramp_StaticMesh' while loading NULL.
+[2018.04.18-23.45.08:539][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/RightArm_StaticMesh'
+[2018.04.18-23.45.08:539][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/RightArm_StaticMesh' while loading NULL.
+[2018.04.18-23.45.08:546][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/Bump_StaticMesh'
+[2018.04.18-23.45.08:546][ 63]LoadErrors: Failed to load /Game/ThirdPerson/Meshes/Bump_StaticMesh.Bump_StaticMesh Referenced by Bump_StaticMesh
+[2018.04.18-23.45.08:546][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/Bump_StaticMesh' while loading NULL.
+[2018.04.18-23.45.08:547][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh'
+[2018.04.18-23.45.08:547][ 63]LoadErrors: Failed to load /Game/ThirdPerson/Meshes/LeftArm_StaticMesh.LeftArm_StaticMesh Referenced by LeftArm_StaticMesh
+[2018.04.18-23.45.08:547][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh' while loading NULL.
+[2018.04.18-23.45.08:547][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh'
+[2018.04.18-23.45.08:547][ 63]LoadErrors: Failed to load /Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh.Linear_Stair_StaticMesh Referenced by Linear_Stair_StaticMesh
+[2018.04.18-23.45.08:547][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh' while loading NULL.
+[2018.04.18-23.45.08:547][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/Ramp_StaticMesh'
+[2018.04.18-23.45.08:548][ 63]LoadErrors: Failed to load /Game/ThirdPerson/Meshes/Ramp_StaticMesh.Ramp_StaticMesh Referenced by Ramp_StaticMesh
+[2018.04.18-23.45.08:548][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/Ramp_StaticMesh' while loading NULL.
+[2018.04.18-23.45.08:548][ 63]LogLinker: Warning: Can't find file '/Game/ThirdPerson/Meshes/RightArm_StaticMesh'
+[2018.04.18-23.45.08:548][ 63]LoadErrors: Failed to load /Game/ThirdPerson/Meshes/RightArm_StaticMesh.RightArm_StaticMesh Referenced by RightArm_StaticMesh
+[2018.04.18-23.45.08:548][ 63]LogLinker: Warning: Can't find file for asset '/Game/ThirdPerson/Meshes/RightArm_StaticMesh' while loading NULL.
+[2018.04.18-23.45.08:776][ 63]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.18-23.46.24:867][834]LogSavePackage: Save=44.81ms
+[2018.04.18-23.46.24:867][834]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Warm_Fire_Level18B91D6E9452AC505F378D98EC658C663.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Levels/Warm_Fire_Level1.umap'
+[2018.04.18-23.46.24:876][834]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Levels/Warm_Fire_Level1.umap
+[2018.04.18-23.54.43:717][285]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.18-23.54.43:740][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.18-23.54.43:741][285]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 3:54:43 PM)
+[2018.04.18-23.54.43:741][285]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.18-23.54.43:749][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007461s)
+[2018.04.18-23.54.43:750][285]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.18-23.54.43:750][285]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2018.04.18-23.54.43:751][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.009379s)
+[2018.04.18-23.54.43:782][285]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.18-23.54.43:805][285]LogInit: FAudioDevice initialized.
+[2018.04.18-23.54.43:841][285]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.18-23.54.43:843][285]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-19.54.43
+[2018.04.18-23.54.43:843][285]LogWorld: Bringing up level for play took: 0.000892
+[2018.04.18-23.54.43:846][285]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 1.061
+[2018.04.18-23.55.38:034][484]Cmd: SELECT NONE
+[2018.04.18-23.57.24:546][646]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Warm_Fire_Level1' took 0.025
+[2018.04.18-23.57.24:548][646]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Warm_Fire_Level1_BuiltData] ([1] browsable assets)...
+[2018.04.18-23.57.24:548][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Warm_Fire_Level1_BuiltData]
+[2018.04.18-23.57.24:559][646]Error: Cannot save asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2018.04.18-23.57.24:560][646]Warning: Asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2018.04.18-23.57.30:570][ 50]LogSavePackage: Save=43.76ms
+[2018.04.18-23.57.30:570][ 50]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Warm_Fire_Level10040FE384CFA386E0D5DCABE92FCFBAA.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Levels/Warm_Fire_Level1.umap'
+[2018.04.18-23.57.30:573][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Levels/Warm_Fire_Level1.umap
+[2018.04.18-23.57.43:208][835]SourceControl: On branch master
+[2018.04.18-23.57.43:208][835]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.04.18-23.57.43:208][835]SourceControl: Changes not staged for commit:
+[2018.04.18-23.57.43:208][835]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.04.18-23.57.43:208][835]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.04.18-23.57.43:208][835]SourceControl: 	modified:   Config/DefaultEngine.ini
+[2018.04.18-23.57.43:208][835]SourceControl: 	deleted:    Content/Warm_Fire_Level1.umap
+[2018.04.18-23.57.43:208][835]SourceControl: 	deleted:    Content/Warm_Fire_Level1_BuiltData.uasset
+[2018.04.18-23.57.43:209][835]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.04.18-23.57.43:209][835]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2018.04.18-23.57.43:209][835]SourceControl: Untracked files:
+[2018.04.18-23.57.43:209][835]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.04.18-23.57.43:209][835]SourceControl: 	Config/DefaultInput.ini
+[2018.04.18-23.57.43:209][835]SourceControl: 	Content/Geometry/
+[2018.04.18-23.57.43:209][835]SourceControl: 	Content/Levels/
+[2018.04.18-23.57.43:209][835]SourceControl: 	Content/Mannequin/
+[2018.04.18-23.57.43:209][835]SourceControl: 	Content/ThirdPersonBP/
+[2018.04.18-23.57.43:209][835]SourceControl: 	Intermediate/AssetRegistryCache/
+[2018.04.18-23.57.43:209][835]SourceControl: 	Intermediate/Config/
+[2018.04.18-23.57.43:209][835]SourceControl: 	Intermediate/ReimportCache/
+[2018.04.18-23.57.43:209][835]SourceControl: 	Saved/Autosaves/Game/
+[2018.04.18-23.57.43:209][835]SourceControl: 	Saved/Backup/
+[2018.04.18-23.57.43:209][835]SourceControl: 	Saved/Config/
+[2018.04.18-23.57.43:209][835]SourceControl: 	Saved/Logs/
+[2018.04.18-23.57.43:209][835]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.04.18-23.59.30:340][972]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.04.18-23.59.30:408][972]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.04.18-23.59.30:524][972]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.04.18-23.59.30:560][972]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.04.18-23.59.30:612][972]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.04.18-23.59.30:683][972]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.04.18-23.59.30:763][972]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.04.18-23.59.30:781][972]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.04.18-23.59.30:802][972]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.04.18-23.59.30:901][972]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.04.18-23.59.30:915][972]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.04.18-23.59.31:126][972]LogMaterial: Missing cached shader map for material MirrorPlaneMaterial, compiling. 
+[2018.04.18-23.59.31:211][972]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.04.18-23.59.31:232][972]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.04.18-23.59.31:254][972]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.04.18-23.59.31:316][972]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.04.18-23.59.31:365][972]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.04.18-23.59.31:408][972]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.04.18-23.59.31:467][972]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.04.18-23.59.31:504][972]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.04.18-23.59.31:664][972]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.04.18-23.59.31:701][972]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.04.18-23.59.31:774][972]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.04.18-23.59.31:798][972]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.04.18-23.59.31:875][972]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.04.18-23.59.31:897][972]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.04.18-23.59.31:991][972]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.04.19-00.01.02:047][579]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.19-00.01.02:075][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-00.01.02:076][579]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 4:01:02 PM)
+[2018.04.19-00.01.02:076][579]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.19-00.01.02:085][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009023s)
+[2018.04.19-00.01.02:086][579]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.19-00.01.02:087][579]LogPlayLevel: PIE: World Init took: (0.001583s)
+[2018.04.19-00.01.02:087][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.011093s)
+[2018.04.19-00.01.02:154][579]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-00.01.02:172][579]LogInit: FAudioDevice initialized.
+[2018.04.19-00.01.02:207][579]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.19-00.01.02:208][579]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-20.01.02
+[2018.04.19-00.01.02:209][579]LogWorld: Bringing up level for play took: 0.000703
+[2018.04.19-00.01.02:211][579]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 -0.574
+[2018.04.19-00.01.08:135][106]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.04.19-00.01.08:150][106]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 128X512)
+[2018.04.19-00.01.08:169][106]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X128)
+[2018.04.19-00.01.08:177][106]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 128X128)
+[2018.04.19-00.01.08:184][106]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.04.19-00.01.22:151][608]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.19-00.01.22:170][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-00.01.22:170][608]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 4:01:22 PM)
+[2018.04.19-00.01.22:170][608]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.19-00.01.22:203][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033147s)
+[2018.04.19-00.01.22:205][608]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.19-00.01.22:205][608]LogPlayLevel: PIE: World Init took: (0.001832s)
+[2018.04.19-00.01.22:206][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.035942s)
+[2018.04.19-00.01.22:229][608]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-00.01.22:245][608]LogInit: FAudioDevice initialized.
+[2018.04.19-00.01.22:280][608]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.19-00.01.22:284][608]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-20.01.22
+[2018.04.19-00.01.22:285][608]LogWorld: Bringing up level for play took: 0.003775
+[2018.04.19-00.01.22:432][608]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.19-00.01.22:433][608]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=118.624] for [ThirdPersonCharacter_C]
+[2018.04.19-00.01.22:433][608]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.04.19-00.01.22:435][608]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 -0.35
+[2018.04.19-00.01.30:691][377]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.04.19-00.01.32:777][558]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.19-00.01.33:580][616]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.19-00.01.33:598][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-00.01.33:598][616]PIE: New page: PIE session: Warm_Fire_Level1 (Apr 18, 2018, 4:01:33 PM)
+[2018.04.19-00.01.33:598][616]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Warm_Fire_Level1
+[2018.04.19-00.01.33:621][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022357s)
+[2018.04.19-00.01.33:623][616]LogAIModule: Creating AISystem for world Warm_Fire_Level1
+[2018.04.19-00.01.33:623][616]LogPlayLevel: PIE: World Init took: (0.002261s)
+[2018.04.19-00.01.33:624][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Warm_Fire_Level1.Warm_Fire_Level1 to /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 (0.025455s)
+[2018.04.19-00.01.33:645][616]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-00.01.33:661][616]LogInit: FAudioDevice initialized.
+[2018.04.19-00.01.33:697][616]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.19-00.01.33:703][616]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Warm_Fire_Level1.Warm_Fire_Level1 up for play (max tick rate 0) at 2018.04.18-20.01.33
+[2018.04.19-00.01.33:704][616]LogWorld: Bringing up level for play took: 0.005060
+[2018.04.19-00.01.33:726][616]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Warm_Fire_Level1 0.941
+[2018.04.19-00.07.44:444][852]LogSavePackage: Save=1632.84ms
+[2018.04.19-00.07.44:444][852]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Warm_Fire_Level1_Auto1182D218C4E319A9B6E6236B82CA28ECF.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1_Auto1.umap'
+[2018.04.19-00.07.44:446][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1_Auto1.umap
+[2018.04.19-00.07.44:471][852]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Warm_Fire_Level1' took 1.711
+[2018.04.19-00.07.44:471][852]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.711
+[2018.04.19-00.07.44:479][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Warm_Fire_Level1_BuiltData] ([1] browsable assets)...
+[2018.04.19-00.07.44:479][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Warm_Fire_Level1_BuiltData]
+[2018.04.19-00.07.44:490][852]Error: Cannot save asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2018.04.19-00.07.44:491][852]Warning: Asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2018.04.19-00.17.44:893][654]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Warm_Fire_Level1' took 0.019
+[2018.04.19-00.17.44:896][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Warm_Fire_Level1_BuiltData] ([1] browsable assets)...
+[2018.04.19-00.17.44:896][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Warm_Fire_Level1_BuiltData]
+[2018.04.19-00.17.44:913][654]Error: Cannot save asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2018.04.19-00.17.44:913][654]Warning: Asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2018.04.19-00.27.45:196][441]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Warm_Fire_Level1' took 0.024
+[2018.04.19-00.27.45:199][441]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Warm_Fire_Level1_BuiltData] ([1] browsable assets)...
+[2018.04.19-00.27.45:199][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Warm_Fire_Level1_BuiltData]
+[2018.04.19-00.27.45:209][441]Error: Cannot save asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2018.04.19-00.27.45:209][441]Warning: Asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2018.04.19-01.35.42:985][275]LogHttp: Warning: 000001ABC1284100: request failed, libcurl error: 0 (No error)
+[2018.04.19-01.35.42:986][275]LogHttp: Warning: 000001ABC1284100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1abf0a87fb8 [can pipeline])
+[2018.04.19-01.35.42:986][275]LogHttp: Warning: 000001ABC1284100: libcurl info message cache 1 (Re-using existing connection! (#33) with host datarouter.ol.epicgames.com)
+[2018.04.19-01.35.42:986][275]LogHttp: Warning: 000001ABC1284100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.171.11.70) port 443 (#33))
+[2018.04.19-01.35.42:986][275]LogHttp: Warning: 000001ABC1284100: libcurl info message cache 3 (upload completely sent off: 6850 out of 6850 bytes)
+[2018.04.19-01.35.42:986][275]LogHttp: Warning: 000001ABC1284100: libcurl info message cache 4 (Closing connection 33)
+[2018.04.19-01.35.42:986][275]LogHttp: Warning: 000001ABC1284100: libcurl info message cache 5 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.04.19-01.35.43:072][275]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Warm_Fire_Level1' took 0.021
+[2018.04.19-01.35.43:075][275]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Warm_Fire_Level1_BuiltData] ([1] browsable assets)...
+[2018.04.19-01.35.43:075][275]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Warm_Fire_Level1_BuiltData]
+[2018.04.19-01.35.43:088][275]Error: Cannot save asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2018.04.19-01.35.43:088][275]Warning: Asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2018.04.19-01.45.43:713][ 77]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Warm_Fire_Level1' took 0.024
+[2018.04.19-01.45.43:715][ 77]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Warm_Fire_Level1_BuiltData] ([1] browsable assets)...
+[2018.04.19-01.45.43:716][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Warm_Fire_Level1_BuiltData]
+[2018.04.19-01.45.43:729][ 77]Error: Cannot save asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2018.04.19-01.45.43:729][ 77]Warning: Asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2018.04.19-01.55.44:395][879]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Warm_Fire_Level1' took 0.018
+[2018.04.19-01.55.44:397][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Warm_Fire_Level1_BuiltData] ([1] browsable assets)...
+[2018.04.19-01.55.44:397][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Warm_Fire_Level1_BuiltData]
+[2018.04.19-01.55.44:416][879]Error: Cannot save asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2018.04.19-01.55.44:416][879]Warning: Asset '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Autosaves/Game/Levels/Warm_Fire_Level1./Game/Levels/Warm_Fire_Level1_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2018.04.19-01.58.25:501][701]LogSavePackage: Save=311.49ms
+[2018.04.19-01.58.25:502][701]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Warm_Fire_Level1C89A8C6444026F9739D8659424FA81EC.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Levels/Warm_Fire_Level1.umap'
+[2018.04.19-01.58.25:514][701]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Levels/Warm_Fire_Level1.umap
+[2018.04.19-01.58.25:559][701]LogFileHelpers: Saving map 'Warm_Fire_Level1' took 6.013
+[2018.04.19-01.58.25:565][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TopDownExampleMap" FILE="../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Maps/TopDownExampleMap.uasset" SILENT=true
+[2018.04.19-01.58.25:573][701]LogSavePackage: Save=5.65ms
+[2018.04.19-01.58.25:574][701]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/TopDownExampleMap945C7CD64BFAAC1463430F99F0F5C7C8.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Maps/TopDownExampleMap.uasset'
+[2018.04.19-01.58.25:582][701]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Maps/TopDownExampleMap.uasset
+[2018.04.19-01.58.40:876][592]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.04.19-01.58.54:752][671]LogSavePackage: Save=296.76ms
+[2018.04.19-01.58.54:753][671]LogSavePackage: Moving '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Warm_Fire_Level15650AACA4F497EA32B6CE393EA42CDB1.tmp' to '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Levels/Warm_Fire_Level1.umap'
+[2018.04.19-01.58.54:755][671]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Levels/Warm_Fire_Level1.umap
+[2018.04.19-01.58.56:897][790]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.04.19-01.59.10:748][790]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.04.19-01.59.10:858][790]SourceControl: [master 8951e4e] Added the landscape and some folders
+[2018.04.19-01.59.10:858][790]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.04.19-01.59.10:858][790]SourceControl:  create mode 100644 Content/Levels/Warm_Fire_Level1.umap
+[2018.04.19-01.59.10:858][790]SourceControl:  create mode 100644 Content/Maps/TopDownExampleMap.uasset
+[2018.04.19-01.59.10:866][790]SourceControl: Commited [master 8951e4e] Added the landscape and some folders.
+[2018.04.19-01.59.14:031][951]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.19-01.59.14:031][951]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.19-01.59.14:367][952]Cmd: QUIT_EDITOR
+[2018.04.19-01.59.14:767][952]LogExit: Preparing to exit.
+[2018.04.19-01.59.15:199][952]LogDirectoryWatcher: A directory notification for 'C:/Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/' was aborted.
+[2018.04.19-01.59.15:403][952]LogExit: Editor shut down
+[2018.04.19-01.59.15:443][952]LogExit: Transaction tracking system shut down
+[2018.04.19-01.59.15:802][952]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.19-01.59.15:802][952]LogDirectoryWatcher: A directory notification for '../../../../../../Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/' was aborted.
+[2018.04.19-01.59.15:802][952]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.19-01.59.15:802][952]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.19-01.59.15:802][952]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.19-01.59.15:803][952]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.19-01.59.15:803][952]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.19-01.59.17:717][952]LogExit: Object subsystem successfully closed.
+[2018.04.19-01.59.17:982][952]LogD3D11RHI: Shutdown
+[2018.04.19-01.59.17:998][952]LogD3D11RHI: CleanupD3DDevice
+[2018.04.19-01.59.18:027][952]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.19-01.59.18:955][952]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2018.04.19-01.59.18:955][952]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (554)
+[2018.04.19-01.59.18:955][952]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2018.04.19-01.59.18:955][952]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.04.19-01.59.18:955][952]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.04.19-01.59.18:955][952]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.04.19-01.59.18:956][952]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.04.19-01.59.18:961][952]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.04.19-01.59.18:961][952]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.04.19-01.59.18:961][952]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.04.19-01.59.18:973][952]LogDirectoryWatcher: A directory notification for 'C:/Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Collections/' was aborted.
+[2018.04.19-01.59.18:973][952]LogDirectoryWatcher: A directory notification for 'C:/Users/kozwi/OneDrive/Unreal/Warm_Fire/Content/Developers/kozwi/Collections/' was aborted.
+[2018.04.19-01.59.18:974][952]LogDirectoryWatcher: A directory notification for 'C:/Users/kozwi/OneDrive/Unreal/Warm_Fire/Saved/Collections/' was aborted.
+[2018.04.19-01.59.18:974][952]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.04.19-01.59.18:987][952]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.04.19-01.59.18:992][952]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.04.19-01.59.19:004][952]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.04.19-01.59.19:006][952]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.04.19-01.59.19:015][952]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.04.19-01.59.19:015][952]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.04.19-01.59.19:015][952]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.04.19-01.59.19:015][952]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.04.19-01.59.19:015][952]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.04.19-01.59.19:015][952]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.04.19-01.59.19:015][952]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.04.19-01.59.19:015][952]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.04.19-01.59.19:022][952]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.04.19-01.59.19:032][952]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.04.19-01.59.19:040][952]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.04.19-01.59.19:065][952]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.04.19-01.59.19:065][952]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.04.19-01.59.19:065][952]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.04.19-01.59.19:065][952]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.04.19-01.59.19:065][952]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.04.19-01.59.19:065][952]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.04.19-01.59.19:065][952]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.04.19-01.59.19:065][952]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.04.19-01.59.19:065][952]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.04.19-01.59.19:065][952]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.04.19-01.59.19:065][952]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.04.19-01.59.19:065][952]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.04.19-01.59.19:071][952]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.04.19-01.59.19:072][952]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.04.19-01.59.19:072][952]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.04.19-01.59.19:072][952]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.04.19-01.59.19:072][952]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.04.19-01.59.19:072][952]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.04.19-01.59.19:093][952]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.04.19-01.59.19:103][952]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.04.19-01.59.19:125][952]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.04.19-01.59.19:156][952]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.04.19-01.59.19:232][952]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.04.19-01.59.19:232][952]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.04.19-01.59.19:232][952]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.04.19-01.59.19:232][952]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.04.19-01.59.19:805][952]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.04.19-01.59.19:805][952]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.04.19-01.59.19:805][952]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.04.19-01.59.19:805][952]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.04.19-01.59.19:875][952]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.04.19-01.59.19:892][952]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.04.19-01.59.19:892][952]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.04.19-01.59.19:913][952]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.04.19-01.59.19:913][952]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.04.19-01.59.19:923][952]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.04.19-01.59.19:938][952]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.04.19-01.59.19:938][952]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.04.19-01.59.19:938][952]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.04.19-01.59.19:938][952]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.04.19-01.59.19:939][952]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.04.19-01.59.19:939][952]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.04.19-01.59.19:939][952]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.04.19-01.59.19:939][952]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.04.19-01.59.19:939][952]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.04.19-01.59.19:940][952]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.04.19-01.59.19:953][952]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.04.19-01.59.19:966][952]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.04.19-01.59.19:973][952]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.04.19-01.59.19:989][952]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.04.19-01.59.20:044][952]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.04.19-01.59.20:171][952]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.04.19-01.59.20:199][952]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.04.19-01.59.20:225][952]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.04.19-01.59.20:225][952]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.04.19-01.59.20:225][952]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.04.19-01.59.20:225][952]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.04.19-01.59.20:258][952]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.04.19-01.59.20:258][952]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.04.19-01.59.20:258][952]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.04.19-01.59.20:291][952]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.04.19-01.59.20:293][952]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.04.19-01.59.20:293][952]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.04.19-01.59.20:302][952]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.04.19-01.59.20:339][952]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.04.19-01.59.20:339][952]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.04.19-01.59.20:354][952]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.04.19-01.59.20:354][952]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.04.19-01.59.20:354][952]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.04.19-01.59.20:354][952]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.04.19-01.59.20:354][952]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.04.19-01.59.20:354][952]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.04.19-01.59.20:354][952]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.04.19-01.59.20:354][952]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.04.19-01.59.20:354][952]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.04.19-01.59.20:355][952]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.04.19-01.59.20:361][952]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.04.19-01.59.20:361][952]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.04.19-01.59.20:371][952]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.04.19-01.59.20:371][952]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.04.19-01.59.20:597][952]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.04.19-01.59.20:719][952]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.04.19-01.59.20:719][952]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.04.19-01.59.20:720][952]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.04.19-01.59.20:720][952]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.04.19-01.59.20:728][952]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.04.19-01.59.20:728][952]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.04.19-01.59.20:728][952]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.04.19-01.59.20:738][952]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.04.19-01.59.20:738][952]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.04.19-01.59.20:738][952]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.04.19-01.59.20:738][952]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.04.19-01.59.20:871][952]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.04.19-01.59.20:871][952]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.04.19-01.59.20:871][952]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.04.19-01.59.20:871][952]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.04.19-01.59.20:889][952]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.04.19-01.59.20:889][952]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.04.19-01.59.20:899][952]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.04.19-01.59.20:899][952]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.04.19-01.59.20:899][952]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.04.19-01.59.20:943][952]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.04.19-01.59.20:966][952]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.04.19-01.59.20:966][952]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.04.19-01.59.20:966][952]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.04.19-01.59.20:966][952]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.04.19-01.59.20:971][952]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.04.19-01.59.20:996][952]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.04.19-01.59.20:996][952]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.04.19-01.59.20:997][952]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.04.19-01.59.20:997][952]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.04.19-01.59.20:997][952]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.04.19-01.59.20:997][952]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.04.19-01.59.21:014][952]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.04.19-01.59.21:030][952]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.04.19-01.59.21:038][952]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.04.19-01.59.21:053][952]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.04.19-01.59.21:054][952]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.04.19-01.59.21:063][952]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.04.19-01.59.21:063][952]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.04.19-01.59.21:063][952]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.04.19-01.59.21:063][952]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.04.19-01.59.21:063][952]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.04.19-01.59.21:063][952]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.04.19-01.59.21:063][952]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.04.19-01.59.21:076][952]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.04.19-01.59.21:191][952]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.04.19-01.59.21:306][952]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.04.19-01.59.21:371][952]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.04.19-01.59.21:372][952]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.04.19-01.59.21:372][952]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.04.19-01.59.21:381][952]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.04.19-01.59.21:381][952]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.04.19-01.59.21:383][952]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.04.19-01.59.21:383][952]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.04.19-01.59.21:383][952]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.04.19-01.59.21:384][952]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.04.19-01.59.21:416][952]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.04.19-01.59.21:416][952]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.04.19-01.59.21:416][952]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.04.19-01.59.21:416][952]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.04.19-01.59.21:418][952]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.04.19-01.59.21:418][952]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.04.19-01.59.21:425][952]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.04.19-01.59.21:426][952]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.04.19-01.59.21:426][952]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.04.19-01.59.21:454][952]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.04.19-01.59.21:455][952]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.04.19-01.59.21:455][952]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.04.19-01.59.21:513][952]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.04.19-01.59.21:514][952]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.04.19-01.59.21:539][952]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.04.19-01.59.21:539][952]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.04.19-01.59.21:540][952]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.04.19-01.59.21:662][952]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.04.19-01.59.21:850][952]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.04.19-01.59.21:850][952]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.04.19-01.59.22:543][952]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.04.19-01.59.22:543][952]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.04.19-01.59.22:547][952]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.04.19-01.59.22:548][952]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.04.19-01.59.22:548][952]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.04.19-01.59.22:548][952]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.04.19-01.59.22:548][952]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.04.19-01.59.22:548][952]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.04.19-01.59.22:548][952]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.04.19-01.59.22:561][952]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.04.19-01.59.22:575][952]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.04.19-01.59.22:575][952]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.04.19-01.59.22:677][952]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.04.19-01.59.22:778][952]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.04.19-01.59.22:778][952]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.04.19-01.59.22:786][952]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.04.19-01.59.22:787][952]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.04.19-01.59.22:859][952]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.04.19-01.59.22:870][952]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.04.19-01.59.22:901][952]LogDerivedDataCache: Shutdown
+[2018.04.19-01.59.22:901][952]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.04.19-01.59.22:901][952]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.04.19-01.59.22:965][952]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.04.19-01.59.23:022][952]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.04.19-01.59.23:023][952]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.04.19-01.59.23:023][952]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.04.19-01.59.23:070][952]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.04.19-01.59.23:070][952]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.04.19-01.59.23:070][952]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.04.19-01.59.23:075][952]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.04.19-01.59.23:075][952]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.04.19-01.59.23:075][952]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.04.19-01.59.23:075][952]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.04.19-01.59.23:075][952]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.04.19-01.59.23:075][952]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.04.19-01.59.23:075][952]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.04.19-01.59.23:075][952]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.04.19-01.59.23:075][952]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.04.19-01.59.23:075][952]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.04.19-01.59.23:075][952]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.04.19-01.59.23:076][952]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.04.19-01.59.23:077][952]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.04.19-01.59.23:077][952]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.04.19-01.59.23:077][952]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.04.19-01.59.23:077][952]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.04.19-01.59.23:077][952]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.04.19-01.59.23:077][952]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.19-01.59.23:077][952]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.19-01.59.23:077][952]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.19-01.59.23:102][952]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.19-01.59.23:113][952]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.19-01.59.23:113][952]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.19-01.59.23:118][952]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3A4F461D-4D9B-ACAE-B230-6EAD58D79BCE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.0-3709383%2B%2B%2BUE4%2BRelease-4.18&UserID=836585e740a563efd109128dbb4445ba%7C8632ad1643164bfc82cba1a21745caf1%7C673fc3cc-c8e2-4a4e-8695-4d39a043cf6e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.19-01.59.23:125][952]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.19-01.59.23:147][952]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.19-01.59.23:212][952]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.19-01.59.23:212][952]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.19-01.59.23:228][952]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.19-01.59.23:229][952]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.19-01.59.23:229][952]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.19-01.59.23:229][952]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.19-01.59.23:258][952]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.19-01.59.23:275][952]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.19-01.59.23:275][952]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.19-01.59.23:286][952]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.19-01.59.23:286][952]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.19-01.59.23:286][952]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.19-01.59.23:286][952]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.19-01.59.23:286][952]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.19-01.59.23:286][952]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.19-01.59.23:287][952]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.19-01.59.23:287][952]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.19-01.59.23:337][952]LogExit: Exiting.
+[2018.04.19-01.59.23:356][952]Log file closed, 04/18/18 21:59:23
