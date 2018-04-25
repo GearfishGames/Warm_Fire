@@ -1,0 +1,1 @@
+Added a dying fire in the fireplace. Trying to see if I can get the text working as well
